@@ -86,10 +86,4 @@ Aplicativo de cadastro completo com máscaras de entrada e validação avançada
 
 ![Tela do app](./aula09-cadastro-completo/assets/print.png)
 
-## e) Reflexão Final (Opcional)
 
-[Escreva aqui sua reflexão sobre a disciplina, desafios, aprendizados e o que levaria para projetos futuros.]
-
-## 🌟 Diferencial (Opcional)
-
-[Documente aqui quaisquer diferenciais implementados, como desafios bônus, estilização acima da média, funcionalidades extras ou refatorações com boas práticas.]
